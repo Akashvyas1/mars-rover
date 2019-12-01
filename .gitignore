@@ -1,0 +1,10 @@
+/target/
+/.idea/
+/*.iml
+/.project
+/.checkstyle
+/.classpath
+/.settings
+/*.log
+/.apt_generated/
+/.factorypath
